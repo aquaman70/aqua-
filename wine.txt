@@ -2,6 +2,9 @@ wine list
 ---------
 -chardonnay
 -pinot noir
+-cabernet sauvignon
+-zinfandel
+-sauvignon blanc
 
 Food
 --------
